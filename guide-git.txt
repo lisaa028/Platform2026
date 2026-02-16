@@ -1,0 +1,20 @@
+belum konek:
+git init
+git config --global user.email "email@github"
+git config --global user.name "name github"
+git config --global user.username "username"
+git remote add origin link_repo
+git add .
+git commit -m "komen"
+git push -u origin main/master/branch-lain
+
+terkonek:
+-- awal ---
+git init
+git remote add origin link_repo
+-- awal--
+
+-- setiap ada pembaruan --
+git add .
+git commit -m "komen"
+git push -u origin main/master/branch-lain
